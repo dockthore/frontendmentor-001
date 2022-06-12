@@ -55,15 +55,6 @@ img{
 }
 
 
-.midbox{
-  position: absolute;
-width: 1440px;
-height: 888px;
-left: 0;
-top: 837px;
-
-background: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
-}
 
 
 .headerone{
